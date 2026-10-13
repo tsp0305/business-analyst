@@ -1,0 +1,18 @@
+# Normalize line endings to LF in the repo, checkout as-is on all platforms
+* text=auto eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.ini text eol=lf
+*.cfg text eol=lf
+*.csv text eol=lf
+
+# Binaries — no conversion
+*.duckdb binary
+*.exe binary
+*.zip binary
+*.parquet binary
+*.xlsx binary

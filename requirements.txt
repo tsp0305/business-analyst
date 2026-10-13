@@ -1,0 +1,13 @@
+streamlit
+duckdb
+pandas
+plotly
+statsmodels
+sqlglot
+pydantic
+python-dotenv
+pyyaml
+pytest
+tenacity
+google-genai
+openpyxl

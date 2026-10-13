@@ -1,0 +1,12 @@
+{
+  "south_electronics_drop_pct": -0.22004,
+  "dedup_key": "order_id",
+  "spike_date": "2022-07-15",
+  "dictionary": {
+    "qty_ord": "Quantity ordered",
+    "cust_id": "Customer ID",
+    "rev_amt": "Revenue amount",
+    "prod_cat": "Product category",
+    "ord_dt": "Order date"
+  }
+}

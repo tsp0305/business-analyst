@@ -1,0 +1,35 @@
+# Secrets
+.env
+.env.local
+
+# Runtime / generated data
+workspace/
+data/traces/
+data/charts/
+data/llm_cache/
+data/uploads/
+data/state/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Temp audit/debug scripts
+debug.py
+debug2.py
+audit_bugs.py
+audit_labels.py
+find_deprecated.py
+find_dup_keys.py
+find_widget_conflicts.py
+fix_deprecated.py
+fix_pages_deprecated.py
+patch_query_engine.py
+
+# Archives (source already tracked as files)
+core.zip
+phases.zip
+tools.zip
